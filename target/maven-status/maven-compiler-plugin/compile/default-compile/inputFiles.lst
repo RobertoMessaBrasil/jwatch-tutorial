@@ -1,0 +1,10 @@
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/security/UserService.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/entity/user/event/UserValidationEvent.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/security/SecurityExample.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/entity/user/UserEntity.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/entity/user/event/UserValidationCode.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/validation/ValidationExample.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/listener/validation/ValidationListener.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/security/event/InvalidRoleEvent.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/entity/user/UserRoleEnum.java
+/home/wardog1/work/jwatch-tutorial/src/main/java/com/jwatch/tutorial/listener/security/SecurityListener.java

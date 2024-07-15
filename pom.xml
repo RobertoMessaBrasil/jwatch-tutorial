@@ -2,9 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jwatch</groupId>
+    <groupId>com.github.robertomessabrasil</groupId>
     <artifactId>jwatch-tutorial</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>JWatch Framework</name>
@@ -60,8 +60,8 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.jwatch</groupId>
-            <artifactId>jwatch-framework</artifactId>
+            <groupId>com.github.robertomessabrasil</groupId>
+            <artifactId>jwatch-lib</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>

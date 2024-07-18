@@ -27,6 +27,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.13.0</version>
                 <configuration>
                     <source>17</source>
                     <target>17</target>
@@ -60,7 +61,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.robertomessabrasil</groupId>
+            <groupId>io.github.robertomessabrasil</groupId>
             <artifactId>jwatch-lib</artifactId>
             <version>1.0</version>
         </dependency>

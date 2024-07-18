@@ -1,8 +1,8 @@
 package io.github.robertomessabrasil.jwatch.tutorial.log;
 
-import com.jwatch.exception.InterruptException;
-import com.jwatch.observer.EventObserver;
-import com.jwatch.observer.listener.EventListener;
+import io.github.robertomessabrasil.jwatch.exception.InterruptException;
+import io.github.robertomessabrasil.jwatch.observer.EventObserver;
+import io.github.robertomessabrasil.jwatch.observer.listener.EventListener;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserEntity;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserRoleEnum;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
@@ -14,7 +14,6 @@ import io.github.robertomessabrasil.jwatch.tutorial.security.event.InvalidRoleEv
 
 public class LogApp {
     public static void main(String[] args) throws InterruptException {
-
 
         EventListener validationListener = new ValidationListener().addEvent(UserValidationEvent.class);
         EventListener securityListener = new SecurityListener().addEvent(InvalidRoleEvent.class);

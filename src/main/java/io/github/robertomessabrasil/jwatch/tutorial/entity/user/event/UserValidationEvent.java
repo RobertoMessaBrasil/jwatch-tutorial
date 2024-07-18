@@ -1,6 +1,6 @@
 package io.github.robertomessabrasil.jwatch.tutorial.entity.user.event;
 
-import com.jwatch.observer.listener.Event;
+import io.github.robertomessabrasil.jwatch.observer.listener.Event;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserEntity;
 
 public class UserValidationEvent extends Event {

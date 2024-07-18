@@ -1,6 +1,6 @@
 package io.github.robertomessabrasil.jwatch.tutorial.log;
 
-import com.jwatch.observer.listener.Event;
+import io.github.robertomessabrasil.jwatch.observer.listener.Event;
 
 public class LogEvent extends Event {
 

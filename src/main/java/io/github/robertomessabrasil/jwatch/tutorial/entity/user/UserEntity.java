@@ -1,7 +1,7 @@
 package io.github.robertomessabrasil.jwatch.tutorial.entity.user;
 
-import com.jwatch.exception.InterruptException;
-import com.jwatch.observer.EventObserver;
+import io.github.robertomessabrasil.jwatch.exception.InterruptException;
+import io.github.robertomessabrasil.jwatch.observer.EventObserver;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationCode;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
 

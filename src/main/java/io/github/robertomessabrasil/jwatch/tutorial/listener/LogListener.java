@@ -1,7 +1,7 @@
 package io.github.robertomessabrasil.jwatch.tutorial.listener;
 
-import com.jwatch.observer.listener.Event;
-import com.jwatch.observer.listener.EventListener;
+import io.github.robertomessabrasil.jwatch.observer.listener.Event;
+import io.github.robertomessabrasil.jwatch.observer.listener.EventListener;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationCode;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
 import io.github.robertomessabrasil.jwatch.tutorial.log.LogEvent;

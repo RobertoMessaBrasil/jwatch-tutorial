@@ -1,8 +1,8 @@
 package io.github.robertomessabrasil.jwatch.tutorial.validation;
 
-import com.jwatch.exception.InterruptException;
-import com.jwatch.observer.EventObserver;
-import com.jwatch.observer.listener.EventListener;
+import io.github.robertomessabrasil.jwatch.exception.InterruptException;
+import io.github.robertomessabrasil.jwatch.observer.EventObserver;
+import io.github.robertomessabrasil.jwatch.observer.listener.EventListener;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserEntity;
 import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
 import io.github.robertomessabrasil.jwatch.tutorial.listener.ValidationListener;

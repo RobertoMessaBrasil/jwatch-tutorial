@@ -56,7 +56,7 @@ Listeners for messaging, timers and much much more! :D
 
 Follow my github to get notified.
 
-[Subscribe to my YouTube channel](https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbnBkeWVWeHlUb0hTVkdRb3pJa0d1RU92X29zZ3xBQ3Jtc0tuQlQ3VHpHSkVucm1oNjZxZDVKM1ZCYWdLUk5vUGktNUpVRFB5YWNjSnYzT0pjVjktNW9UdG1BQ2IxR28yRTl1UGo0YWF2UTFGS0tfRXJJcV9rVFJweFMyNmo4WnNvSndzQlNWczViallDalBWWUZYQQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frobertomessabrasil%2F) because I'll talk about JWatch there
+[Subscribe to my YouTube channel](https://www.youtube.com/@backendjava) because I'll talk about JWatch there
 
 [Let's connect](https://www.linkedin.com/in/robertomessabrasil/) on Linkedin! I'm always open for job proposals ;)
 

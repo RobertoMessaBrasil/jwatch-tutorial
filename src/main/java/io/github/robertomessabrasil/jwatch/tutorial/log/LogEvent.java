@@ -1,4 +1,4 @@
-package com.jwatch.tutorial.log;
+package io.github.robertomessabrasil.jwatch.tutorial.log;
 
 import com.jwatch.observer.listener.Event;
 

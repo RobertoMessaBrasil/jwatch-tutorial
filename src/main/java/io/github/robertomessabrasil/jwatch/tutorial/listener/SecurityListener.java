@@ -1,8 +1,8 @@
-package com.jwatch.tutorial.listener;
+package io.github.robertomessabrasil.jwatch.tutorial.listener;
 
 import com.jwatch.observer.listener.Event;
 import com.jwatch.observer.listener.EventListener;
-import com.jwatch.tutorial.security.event.InvalidRoleEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.security.event.InvalidRoleEvent;
 
 public class SecurityListener extends EventListener {
     @Override

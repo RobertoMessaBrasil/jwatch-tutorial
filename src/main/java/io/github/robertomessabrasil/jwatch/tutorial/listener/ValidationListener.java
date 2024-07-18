@@ -1,9 +1,9 @@
-package com.jwatch.tutorial.listener;
+package io.github.robertomessabrasil.jwatch.tutorial.listener;
 
 import com.jwatch.observer.listener.Event;
 import com.jwatch.observer.listener.EventListener;
-import com.jwatch.tutorial.entity.user.event.UserValidationCode;
-import com.jwatch.tutorial.entity.user.event.UserValidationEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationCode;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
 
 public class ValidationListener extends EventListener {
     @Override

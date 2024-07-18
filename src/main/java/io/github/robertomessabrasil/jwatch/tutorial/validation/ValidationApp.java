@@ -1,13 +1,11 @@
-package com.jwatch.tutorial.validation;
+package io.github.robertomessabrasil.jwatch.tutorial.validation;
 
 import com.jwatch.exception.InterruptException;
 import com.jwatch.observer.EventObserver;
 import com.jwatch.observer.listener.EventListener;
-import com.jwatch.tutorial.entity.user.UserEntity;
-import com.jwatch.tutorial.entity.user.event.UserValidationEvent;
-import com.jwatch.tutorial.listener.ValidationListener;
-
-import java.util.List;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserEntity;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.listener.ValidationListener;
 
 public class ValidationApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.jwatch.tutorial.entity.user.event;
+package io.github.robertomessabrasil.jwatch.tutorial.entity.user.event;
 
 public enum UserValidationCode {
     INVALID_NAME(0), INVALID_EMAIL(1);

@@ -1,10 +1,10 @@
-package com.jwatch.tutorial.security;
+package io.github.robertomessabrasil.jwatch.tutorial.security;
 
 import com.jwatch.exception.InterruptException;
 import com.jwatch.observer.EventObserver;
-import com.jwatch.tutorial.entity.user.UserEntity;
-import com.jwatch.tutorial.entity.user.UserRoleEnum;
-import com.jwatch.tutorial.security.event.InvalidRoleEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserEntity;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserRoleEnum;
+import io.github.robertomessabrasil.jwatch.tutorial.security.event.InvalidRoleEvent;
 
 import java.util.List;
 

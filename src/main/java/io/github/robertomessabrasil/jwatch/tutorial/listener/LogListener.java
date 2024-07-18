@@ -1,11 +1,11 @@
-package com.jwatch.tutorial.listener;
+package io.github.robertomessabrasil.jwatch.tutorial.listener;
 
 import com.jwatch.observer.listener.Event;
 import com.jwatch.observer.listener.EventListener;
-import com.jwatch.tutorial.entity.user.event.UserValidationCode;
-import com.jwatch.tutorial.entity.user.event.UserValidationEvent;
-import com.jwatch.tutorial.log.LogEvent;
-import com.jwatch.tutorial.security.event.InvalidRoleEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationCode;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.log.LogEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.security.event.InvalidRoleEvent;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

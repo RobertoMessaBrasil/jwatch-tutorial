@@ -1,7 +1,7 @@
-package com.jwatch.tutorial.security.event;
+package io.github.robertomessabrasil.jwatch.tutorial.security.event;
 
 import com.jwatch.observer.listener.Event;
-import com.jwatch.tutorial.entity.user.UserRoleEnum;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.UserRoleEnum;
 
 public class InvalidRoleEvent extends Event {
 

@@ -1,10 +1,9 @@
-package com.jwatch.tutorial.entity.user;
+package io.github.robertomessabrasil.jwatch.tutorial.entity.user;
 
 import com.jwatch.exception.InterruptException;
 import com.jwatch.observer.EventObserver;
-import com.jwatch.tutorial.entity.user.event.UserValidationCode;
-import com.jwatch.tutorial.entity.user.event.UserValidationEvent;
-import com.jwatch.tutorial.log.LogEvent;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationCode;
+import io.github.robertomessabrasil.jwatch.tutorial.entity.user.event.UserValidationEvent;
 
 public class UserEntity {
     private String name;

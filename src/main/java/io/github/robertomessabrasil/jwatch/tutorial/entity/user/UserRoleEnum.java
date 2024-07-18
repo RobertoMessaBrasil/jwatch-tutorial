@@ -1,4 +1,4 @@
-package com.jwatch.tutorial.entity.user;
+package io.github.robertomessabrasil.jwatch.tutorial.entity.user;
 
 public enum UserRoleEnum {
     ADMIN(0), REGULAR(1);

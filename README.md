@@ -5,7 +5,7 @@ Examples to teach how to use [JWatch](https://github.com/RobertoMessaBrasil/jwat
 
 ### Events, Event Codes, Listeners
 
-1. [Create the event](src/main/java/com/jwatch/tutorial/entity/user/event/UserValidationEvent.java) to characterize what you want to handle
+1. [Create the event](src/main/java/io/github/robertomessabrasil/jwatch/tutorial/entity/user/event/UserValidationEvent.java) to characterize what you want to handle
 2. [Create enums](src/main/java/com/jwatch/tutorial/entity/user/event/UserValidationCode.java) with to provide the event with data to be used in listener's code
 3. [Create one or more listeners](src/main/java/com/jwatch/tutorial/listener/ValidationListener.java) to handle the events
 

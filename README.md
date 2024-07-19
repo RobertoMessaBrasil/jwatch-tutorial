@@ -40,7 +40,7 @@ Your can create a listener to handle security issues in you code.
 
 Let's us say only users with a proper role can create resources.
 
-If a user [without the proper role](src/main/java/io/github/robertomessabrasil/jwatch/tutorial/entity/user/UserRoleEnum.java) tries to do something forbidden, you [can prevent](src/main/java/com/jwatch/tutorial/listener/SecurityListener.java) it in your listener.
+If a user [without the proper role](src/main/java/io/github/robertomessabrasil/jwatch/tutorial/entity/user/UserRoleEnum.java) tries to do something forbidden, you [can prevent](src/main/java/io/github/robertomessabrasil/jwatch/tutorial/listener/SecurityListener.java) it in your listener.
 
 ### Log
 
